@@ -4,7 +4,7 @@ public class BasicMovement : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is 
     public int movSpeed = 15;
-    public float fuerzaSalto = 5f;
+    public float fuerzaSalto = 8f;
     private bool canJump;
 
     private Rigidbody rb;

@@ -574,7 +574,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 2.38, y: 0.59, z: 1}
+  m_Size: {x: 2.38, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!108 &705507994 stripped
 Light:
@@ -877,18 +877,6 @@ PrefabInstance:
     - target: {fileID: 167981548996488234, guid: 13aca049c67820644ba390980277e1e1, type: 3}
       propertyPath: m_CullingMode
       value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 356319859933818117, guid: 13aca049c67820644ba390980277e1e1, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 2.0752
-      objectReference: {fileID: 0}
-    - target: {fileID: 356319859933818117, guid: 13aca049c67820644ba390980277e1e1, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.15996267
-      objectReference: {fileID: 0}
-    - target: {fileID: 356319859933818117, guid: 13aca049c67820644ba390980277e1e1, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.36
       objectReference: {fileID: 0}
     - target: {fileID: 733747767796847461, guid: 13aca049c67820644ba390980277e1e1, type: 3}
       propertyPath: m_Layer
